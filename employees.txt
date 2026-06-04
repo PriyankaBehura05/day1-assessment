@@ -1,0 +1,10 @@
+1, Ajay, AI
+2, Rahul, HR
+3, Priyanka, AI
+4, Kiran, AI
+5, Sneha, HR
+6, Surya, Finance
+7, Ramesh, AI
+8, Pooja, HR
+9, Vikram, Finance
+10, Neha, AI
