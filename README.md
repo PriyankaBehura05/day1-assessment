@@ -1,4 +1,4 @@
-# DAY2-DATA-PROCESSING
+# Python Fundamentals + AI Readiness Assessment
 
 ## Overview
 
