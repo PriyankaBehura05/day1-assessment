@@ -68,6 +68,8 @@ print()
 print("Employee 3")
 emp3.display_details()
 print("Annual Salary:", emp3.annual_salary())
+
+
 print("Employee 1")
 emp1.display_details()
 print("Annual Salary:", emp1.annual_salary())
